@@ -1,0 +1,8 @@
+gymnasium
+numpy
+pandas
+openpyxl
+stable-baselines3
+sb3-contrib
+torch
+tensorboard

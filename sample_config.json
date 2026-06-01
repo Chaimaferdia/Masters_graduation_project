@@ -1,0 +1,32 @@
+{
+  "time": {
+    "days_per_week": 5,
+    "periods_per_day": 7
+  },
+
+  "teachers": [
+    {
+      "id": 1,
+      "name": "Teacher_1",
+      "subject": "Math"
+    }
+  ],
+
+  "groups": [
+    {
+      "id": 1,
+      "name": "Group_1",
+      "level": 1,
+      "stream": "Science"
+      "room_id":2
+    }
+  ],
+
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Room_1",
+      "type": "Lecture"
+    }
+  ]
+}
